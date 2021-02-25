@@ -1,0 +1,167 @@
+{
+    "main": {
+        "name": "Mihir Patel",
+        "description": "Front-End Web Developer",
+        "image": "profilepic.jpg",
+        "bio": "I'm currently a senior at the Bloomsburg University of Pennsylvania. I'm an Information Technology Management major and also Accounting as a minor. I recently started a Bachelor’s degree in Computer Science at Southern New Hampshire University. Part-time Sales Experience Associate skills in greeting clients with a smile, knowing their needs and preferences, suggesting suitable purchases, answering questions, and even managing customer issues and other problems. The Google IT Support Technical Certification, a three-month IT support program that covers troubleshooting, customer care, networking, operating systems, device management, and security, and includes hands-on laboratories, has recently been completed. ",
+        "contactmessage": "Get in touch with me!",
+        "email": "mihirp1216@gmail.com",
+        "phone": "+1 (570)-594-8789",
+        "address": {
+            "street": "306 Mill Street",
+            "city": "Orangeville",
+            "state": "Pennsylvania",
+            "zip": "17859"
+        },
+        "resumedownload": "/Mihir_Patel_Resume.pdf",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/mihirpatel2000/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/mihirp1216/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/mihirp1216/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/mihirp1216",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [
+            {
+                "school": "Bloomsburg University of Pennsylvania",
+                "degree": "Bachelor's Degree, Information Technology Management",
+                "graduation": "December 2021",
+                "deanList": "Dean List: Spring 2020, Fall 2020, Winter 2021, Spring 2021"
+            },
+            {
+                "school": "Southern New Hampshire University",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduation": "December 2022",
+                "deanList": ""
+            }
+        ],
+        "work": [
+            {
+                "company": "Hess Market",
+                "title": "Sales Associate, Office Administrative Assistant",
+                "place": "Orangeville, PA",
+                "years": "December 2016 - Present",
+                "description": "Replenished, restocked, and maintained various product display sets to enhance. Stocked merchandise each Week, clearly labeling items, arranging according to size or color, and preparing attractive displays. Assist customers by providing information  and resolving their compaints. Greet customers entering the establishment. Accepted delivered packages, verified products, and checked delivery totals to keep system records current and accurate. Calculated correct order totals, updated accounts, and maintained detailed records for inventory management."
+            },
+            {
+                "company": "Gayatri Rubber Industries",
+                "title": "Office Administrative Assistant",
+                "place": "Ahmedabad, Gujarat, India",
+                "years": "January 2012 - October 2016",
+                "description": "Answering and directing calls to the relevant staff. Scheduling meetings and appointments. Ordering and taking stock of office supply. Greeting and directing visitors and new staff to the organization. Finding ways to improve administrative processes. Checking Emails for new orders and send the orders to staff for order processing. Handling a company banks accounts and trusted big check amount depositers."
+            }
+        ],
+        "skills": [
+            {
+                "name": "ReactJS",
+                "level": "75%"
+            },
+            {
+                "name": "Python",
+                "level": "75%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "77%"
+            },
+            {
+                "name": "HTML",
+                "level": "99%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "Web Development",
+                "level": "79%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Airbnb Clone (React JS)",
+                "category": "",
+                "image": "airbnb.PNG",
+                "url": "https://airbnb-clone-902bc.web.app/"
+            },
+            {
+                "title": "COVID-19 Tracker (React JS)",
+                "category": "",
+                "image": "COVID-19-Tracker.PNG",
+                "url": "https://covid-19-tracker-9eca3.web.app/"
+            },
+            {
+                "title": "Hulu Clone (React JS)",
+                "category": "",
+                "image": "hulu.PNG",
+                "url": "https://hulu-clone-1ab4b.web.app/"
+            },
+            {
+                "title": "Linkedin Clone (React JS)",
+                "category": "",
+                "image": "linkedin.PNG",
+                "url": "https://linkedin-clone-ead53.web.app/"
+            },
+            {
+                "title": "Netflix Clone (React JS)",
+                "category": "",
+                "image": "netflix.PNG",
+                "url": "https://netflix-clone-b8f21.web.app/"
+            },
+            {
+                "title": "Spotify Clone (React JS)",
+                "category": "",
+                "image": "spotify.PNG",
+                "url": "https://spotify-clone-3ef52.web.app/"
+            },
+            {
+                "title": "WhatsApp Clone (React JS)",
+                "category": "",
+                "image": "WhatsApp.PNG",
+                "url": "https://whatsapp-clone-2b776.web.app/"
+            }
+        ]
+    },
+    "certification": {
+        "earnCertification": [
+            {
+                "title": "The Complete 2021 Web Development Bootcamp",
+                "category": "",
+                "image": "Bootcamp2021.PNG",
+                "url": "https://www.udemy.com/certificate/UC-2a586aa7-00a0-4b7a-901d-0b0c9b299762/"
+            },
+            {
+                "title": "SQL - MySQL for Data Analytics and Business Intelligence",
+                "category": "",
+                "image": "SQL.PNG",
+                "url": "https://www.udemy.com/certificate/UC-1148aec0-c291-4536-9059-ab953493cc95/"
+            },
+            {
+                "title": "Google IT Support Professional Certificate",
+                "category": "",
+                "image": "googleIT.PNG",
+                "url": "https://coursera.org/share/9d19d3fbb66051a898416465b3187d75"
+            }
+        ]
+    }
+}
